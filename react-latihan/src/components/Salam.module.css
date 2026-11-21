@@ -1,0 +1,12 @@
+/* src/components/Salam.module.css */
+.kotak {
+  border: 1px solid #9595e8;
+  border-radius: 16px;
+  padding: 24px;
+  background: #fbdada;
+}
+
+.judul {
+  margin: 0 0 8px;
+  font-size: 24px;
+}
